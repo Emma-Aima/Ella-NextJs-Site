@@ -30,7 +30,7 @@ const Footer = () => {
           <FaGithub size={28} />
         </a>
         <a 
-          href="https://twitter.com/emmanuella" 
+          href="https://twitter.com/b_aimalohi" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="text-purple-400 hover:text-purple-500 transition-transform transform hover:scale-110"
